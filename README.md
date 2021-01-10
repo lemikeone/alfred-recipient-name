@@ -9,7 +9,7 @@ Just type in you email :
 or the keys : 
 ➜ ⌃⌥h
 
-To write "Hello {Recipient's name}
+To write "Hello {Recipient's name}"
 
 You can change the word "Hello" for any other language in the worrkflow. 
 
