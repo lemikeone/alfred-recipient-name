@@ -19,8 +19,8 @@ Here is how it looks like : https://streamable.com/dn0vsx
 
 Cntributors (Alfred Forum nicknames) : 
 
-lemikeone
+- lemikeone
 
-deanishe (Apple script)
+- deanishe (Apple script)
 
 How to thanks the contributors ? Just here : https://www.alfredforum.com/topic/16423-help-use-recipients-name-in-gmail-in-a-snippet/
