@@ -23,4 +23,4 @@ Cntributors (Alfred Forum nicknames) :
 
 - deanishe (Apple script)
 
-How to thanks the contributors ? Just here : https://www.alfredforum.com/topic/16423-help-use-recipients-name-in-gmail-in-a-snippet/
+Alfred forum thread : https://www.alfredforum.com/topic/16423-help-use-recipients-name-in-gmail-in-a-snippet/
