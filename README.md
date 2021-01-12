@@ -19,7 +19,7 @@ Here is how it looks like : https://streamable.com/dn0vsx
 
 Cntributors (Alfred Forum nicknames) : 
 
-- lemikeone
+- lemikeone (Workflow)
 
 - deanishe (Apple script)
 
